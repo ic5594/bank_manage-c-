@@ -1,0 +1,6 @@
+﻿  inquire.c
+C:\HW\C_Study\workspace\Bank_Program\inquire.c(8,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\HW\C_Study\workspace\Bank_Program\inquire.c(9,9): warning C4013: 'scanf_s'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\HW\C_Study\workspace\Bank_Program\inquire.c(13,13): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\HW\C_Study\workspace\Bank_Program\inquire.c(16,11): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Bank_Program.vcxproj -> C:\HW\C_Study\workspace\Bank_Program\Debug\Bank_Program.exe
